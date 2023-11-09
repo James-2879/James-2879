@@ -1,4 +1,4 @@
-Biochemistry student at the University of Bath.
+Hi! I am  a Biochemistry student at the University of Bath, and I work on web apps, home automation and bioinformatics.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=James-2879&exclude_repo=UVMEA)](https://github.com/anuraghazra/github-readme-stats)
 
