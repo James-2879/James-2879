@@ -1,8 +1,8 @@
 Hi! I am  a Biochemistry graduate from the University of Bath, and I work on web apps, IoT, and bioinformatics.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=James-2879&exclude_repo=UVMEA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=James-2879&exclude_repo=UVMEA&size_weight=0.5&count_weight=0.5&layout=compact&hide=dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-2879)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-2879&hide=prs,issues,contribs&hide_rank=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
